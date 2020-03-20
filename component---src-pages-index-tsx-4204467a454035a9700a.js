@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{QeBL:function(e,t,n){"use strict";n.r(t);n("q1tI");var l=n("NqE+"),c=n("TBFr"),u=n("+ego"),a=n("qKvR");t.default=function(){return Object(a.d)(u.a,null,Object(a.d)(l.a,null,Object(a.d)(c.a,null,Object(a.d)("p",null,Object(a.d)("b",null,"IT Consultants")),Object(a.d)("p",null,"james.kytosaho@cutech.se"),Object(a.d)("p",null,"andreas.malmstrom@cutech.se"))))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-4204467a454035a9700a.js.map
