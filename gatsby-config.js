@@ -3,15 +3,14 @@ module.exports = {
     title: "Cutech",
     description: "A starter kit for TypeScript-based Gatsby projects with sensible defaults.",
     keywords: "gatsbyjs, gatsby, javascript, sample, something",
-    siteUrl: "https://gatsby-starter-typescript-plus.netlify.com",
+    siteUrl: "https://cutech.se",
     author: {
       name: "",
       url: "",
       email: "",
     },
   },
-  plugins: [
-    {
+  plugins: [{
       resolve: "gatsby-source-filesystem",
       options: {
         name: "content",
@@ -21,8 +20,7 @@ module.exports = {
     {
       resolve: "gatsby-transformer-remark",
       options: {
-        plugins: [
-          {
+        plugins: [{
             resolve: "gatsby-remark-responsive-iframe",
             options: {
               wrapperStyle: "margin-bottom: 1rem",
